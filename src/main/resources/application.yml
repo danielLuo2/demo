@@ -1,0 +1,6 @@
+server:
+  port: 8080
+spring:
+  application:
+    name: demo
+user-file-path: users.txt
